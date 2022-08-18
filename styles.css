@@ -19,6 +19,22 @@ div {
    padding: 10px;
 }
 
+form {
+   margin-top: 25px;
+}
+
+form label {
+   display: inline-block;
+   width: 150px;
+   text-align: right;
+   padding-right: 10px;
+   
+}
+
+form div {
+   margin-bottom: 10px;
+ }
+
 #launchStatusCheck {
    background-color: #ECF0F1;
    text-align: center;
